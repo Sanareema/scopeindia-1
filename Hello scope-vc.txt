@@ -1,1 +1,2 @@
 Hello from scope!
+This is my first git project.
