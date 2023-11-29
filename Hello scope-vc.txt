@@ -1,3 +1,4 @@
 Hello from scope!
 This is my first git project.
 This is the 3rd line.
+This is edited line, in here.
